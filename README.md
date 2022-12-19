@@ -1,76 +1,67 @@
-                                                        
-![MasterHead](https://qph.fs.quoracdn.net/main-qimg-fa7b4bdc3b2f73e749e5c2c646d4ae13)
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
-<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&amp;color=ff0000&amp;size=20&amp;lines=Hey!+It's+Akash+Chikhalonde!;Learning+Java+Back-end+Development...👨🏻‍💻;" style="width: 100%;">
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
-<h1 align="center"> 😇(Hello everyone)"This is Akash" 👋</h1>
-<h3 align="center">A passionate Backend Developer from India</h3>
+<h1 align="center">Hi <img style="height: 40px;" src="https://i.pinimg.com/originals/0e/3e/e5/0e3ee551876e1ad2a39f89e4adf9168a.gif" alt="">, I'm Akash Chikhalonde</h1>
+    <h3 align="center">An Aspiring Java developer</h3>
 
-<img align="right" alt="Coding" width="400" src="https://storage.googleapis.com/media.helloumi.com/125042/channels/FJ3DZITWCY268043HGFACIP9CFUA9XM6.gif">
-                                                       
-- 🔭 I’m currently working on **MySkill😄**
-- 🌱 I’m currently learning **Masai School (Backend Developer)**
-- 💬 Ask me about **Java**
-- 👨‍💻 All of my projects are available at [My Portfolio](https://Akash-298.github.io/)
--  📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1opDeMdCuheZV9d_w7cx0BSn4v1nVQX5u/view?usp=sharing)
-- 📫 How to reach me: ...**akash.c.c298@gmail.com**
-- 😄 Pronouns: ...@Akash
-- ⚡ Fun fact: ...Always smile😄 in tough situation
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=akash-298&label=Profile%20views&color=0e75b6&style=flat" alt="AkashChikhalonde" /> </p>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
+<img align="right" style="height: 200px;" src="https://user-images.githubusercontent.com/102204260/192700068-98ad5312-13c4-49ba-bc0a-d3de1fb9d5fb.gif" alt="ii">
 
-                                                       
-<h2><i>My GitHub Stats</i></h2>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Akash-298&label=Profile%20views&color=0e75b6&style=flat" alt="Akash-298" /> </p>
+- 🔭 I’m currently a student at Masai **School, Bengaluru**
 
-<p>
-    <img align="left" src="https://github-readme-stats.vercel.app/api?username=Akash-298&show_icons=true&locale=en&theme=dark" alt="Akash-298"  height="139" />
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akash-298&layout=compact&exclude_repo=Lybrate-Website-Clone-Version-2.0,Lybrate-Website-Clone,Adidas-Clone&hide=Shell&border_radius=0&theme=dark" alt="Akash-298" height="139" />
+- 🌱 I’m currently learning **spring**
+
+- 👯 I’m looking to collaborate on **Interesting projects using springboot**
+
+ <!-- Portfolio -->
+- 👨‍💻 Checkout my [Portfolio]( http://Akash-298.github.io) &nbsp; 
+
+<!-- Resume -->
+-  <img width="20" src = "https://user-images.githubusercontent.com/66555692/190847273-1a125e30-6bb9-4221-916f-47ef6d774f58.png" > Checkout my [Resume](https://drive.google.com/file/d/1p4sebEV_btQMQUIodNFg904IqhUEgM6p/view?usp=sharing) &nbsp; 
+
+- 💬 Ask me about **coding and art because that's what fascinates me**
+
+- 📫 How to reach me **akash.c.c298@gmail.com**
+
+- ⚡ Fun fact **I think I am creative**
+
+- 👯 **Love to connect with people and Know their stories**
+<br>
+
+
+<p align="left">
+  <a  align="left" href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=akash-298&column=7&theme=default" />
+  </a>
 </p>
 
-<img src="https://activity-graph.herokuapp.com/graph?username=Akash-298&theme=xcode" height ="307"/>
+<br>
 
-![snake gif](https://github.com/ahtishamkhan5678/ahtishamkhan5678/blob/output/github-contribution-grid-snake.svg)
+# 🌐 Socials:
+<p align="left">
+<a href="https://www.linkedin.com/in/akash-chikhalonde-b5078623a/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akash" height="50" width="60"  style="margin-right: 10px;"/></a>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
+<a href="https://twitter.com/akash_c298?t=DWrn6-q540bvZlKgpliwGQ&s=09" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="akash" height="50" width="60" style="margin-right: 10px;" /></a>  
 
 
-<div align="center">  
-                                                         
-<h3 align="left">Connect with me</h3>
+   
+
+# 💻 Tech Stack:
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,java,mysql,spring,maven,hibernate,git,netlify,vscode)](https://skillicons.dev)
+
+# 📊 GitHub Stats:
+<p align="left">
+
 <p align="center">
-<a href="https://twitter.com/akash_c298?t=DWrn6-q540bvZlKgpliwGQ&s=09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sauravugi" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/akash-chikhalonde-b5078623a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Akash Chikhalonde" height="30" width="40" /></a>
-
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=akash-298&show_icons=true&theme=default&count_private=true" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=akash-298&theme=default" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akash-298&theme=default&count_private=true" align="center" />
 </p>
-</div>  
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
-
-                                                          
-
-<h3 align="left">🛠 &nbsp;Tech Stack </h3>
-
-<div align="center">  
-	
-  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />  
-  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />  
-  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
-  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /> 
-
-  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" />
-
-<!--    -->
-
-<!--    --> 
 
 
+# ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=default)
 
 
-</div>  
+<img style="width: 100%;" src="https://miro.medium.com/max/1400/1*sV60JhlYL4IdWjcNvKTJRA.png" alt="">
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&amp;color=ff0000&amp;size=20&amp;lines=Thanks!+For+Visiting+On+My+Profile!;See+You+Next-Time+Hope+u+like+its...👨🏻‍💻;" style="width: 100%;">
-
-<p align="center"><img  src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg"></p>
+<h3 style="text-align: center;">Stay Happy, Stay Motivated  <img style="height: 50px;" src="https://i.pinimg.com/originals/69/52/88/69528895726f32fc384babcde61a535a.gif" alt=""></h3>
