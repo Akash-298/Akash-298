@@ -1,5 +1,5 @@
 <h1 align="center">Hi <img style="height: 40px;" src="https://i.pinimg.com/originals/0e/3e/e5/0e3ee551876e1ad2a39f89e4adf9168a.gif" alt="">, I'm Akash Chikhalonde</h1>
-    <h3 align="center">An Aspiring Java developer</h3>
+    <h3 align="center">An Aspiring MERN stack developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akash-298&label=Profile%20views&color=0e75b6&style=flat" alt="AkashChikhalonde" /> </p>
 
@@ -7,9 +7,9 @@
 
 - 🔭 I’m currently a student at Masai **School, Bengaluru**
 
-- 🌱 I’m currently learning **spring**
+- 🌱 I’m currently learning **Type Script**
 
-- 👯 I’m looking to collaborate on **Interesting projects using springboot**
+- 👯 I’m looking to collaborate on **Interesting projects using MERN stack**
 
  <!-- Portfolio -->
 - 👨‍💻 Checkout my [Portfolio]( http://Akash-298.github.io) &nbsp; 
@@ -46,7 +46,7 @@
 
 # 💻 Tech Stack:
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,java,mysql,spring,maven,hibernate,git,netlify,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,node,mangodb,express,java,mysql,spring,maven,hibernate,git,netlify,vscode)](https://skillicons.dev)
 
 # 📊 GitHub Stats:
 <p align="left">
